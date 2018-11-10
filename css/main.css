@@ -741,16 +741,6 @@ a.app_link{
 .sub_box #success_msg{
 	display: none;
 }
-
-
-
-
-
-
-
-
-
-
 /*		Footer 		*/
 
 footer{
@@ -777,15 +767,6 @@ footer .copyright{
 footer .copyright a{
 	color: #565555;
 }
-
-
-
-
-
-
-
-
-
 /*		Responsive CSS 		*/
 
 @media (max-width: 360px) {
@@ -796,8 +777,6 @@ footer .copyright a{
 }
 
 @media (max-width: 767px) {
-
-
 	/*		Header 		*/
 	header .logo{
 		margin-right: 0;
@@ -848,11 +827,6 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
-
-
-
-
-
 	/*		Hero section 		*/
 	.hero .caption{
 		margin-left: 0;
@@ -865,11 +839,6 @@ footer .copyright a{
 		padding-right: 0;
 		text-align: center;
 	}
-
-
-
-
-
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -878,11 +847,6 @@ footer .copyright a{
 	.featured_on ul li{
 		margin-bottom: 25px!important;
 	}
-
-
-
-
-
 
 	/*		About Section 		*/
 	.about .features_list {
@@ -904,11 +868,6 @@ footer .copyright a{
 		display: block;
 		margin-top: 20px;
 	}
-
-
-
-
-
 
 	/*		Subscription section 		*/
 	.sub_box #mc-email,
